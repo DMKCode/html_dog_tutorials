@@ -1,1 +1,1 @@
-# html_dog_tutorials
+# HTML practice
