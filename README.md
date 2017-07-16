@@ -1,4 +1,4 @@
-# html_dog_tutorials
+# HTML practice (htmldog.com)
 - beginner 
 - intermediate
 - advanced
