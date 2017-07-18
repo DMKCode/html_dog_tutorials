@@ -11,4 +11,12 @@
 - Forms: Text boxes and other user-input
 
 ### Intermediate
+- Span and Div: The “meaningless” elements, used with CSS.
+- Text: Abbreviations, Quotations, and Code
+- Meta Tags: Bolting on extra information about your web page.
+- Tables: rowspan and colspan: Expanding on the Tables page of the HTML - Beginner Tutorial, looking at header-cells and merging cells.
+- Description Lists: The forgotten lists.
+- Text: Addresses, Definitions, Bi-directional, and Editorial
+- Sectioning: Greater semantic structures for documents.
+
 ### Advanced
