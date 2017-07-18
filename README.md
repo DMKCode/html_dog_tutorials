@@ -20,3 +20,11 @@
 - Sectioning: Greater semantic structures for documents.
 
 ### Advanced
+- Text: Time, Mark, and “Presentational”: Yet more tags for ultra-specific textual elements.
+- Conditional Comments: Targeting inept and misbehaving elderly browsers.
+- Tables: Columns, Headers, and Footers
+- Accessible Links: Making hypertext more accessible to users with - disabilities.
+- Accessible Forms: Making forms more accessible for users with - disabilities.
+- HTML5 Forms Pt. 1: Input Types: More specific form fields.
+- HTML5 Forms Pt. 2: Attributes and Data Lists: Extending the semantics of input and textarea.
+- Embedded Content: Video, Audio, and Canvas
