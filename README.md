@@ -1,4 +1,4 @@
 # HTML practice (htmldog.com)
-- beginner 
+### Beginner 
 - intermediate
 - advanced
