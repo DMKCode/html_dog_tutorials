@@ -1,4 +1,4 @@
-# HTML practice (htmldog.com)
+# HTML practice  (htmldog.com)
 ### Beginner
 - Tags, Attributes and Elements: The stuff that makes up HTML.
 - Page Titles: Titles. For Pages. A difficult concept, we know…
